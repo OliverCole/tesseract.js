@@ -22,7 +22,7 @@
 ---
 
 <a name="create-worker"></a>
-## createWorker(options): Worker
+## createWorker(options): Workerx
 
 createWorker is a factory function that creates a tesseract worker, a worker is basically a Web Worker in browser and Child Process in Node.
 
@@ -366,3 +366,6 @@ See [PSM.js](../src/constants/PSM.js)
 ## OEM
 
 See [OEM.js](../src/constants/OEM.js)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMDYzNjkyNDFdfQ==
+-->
